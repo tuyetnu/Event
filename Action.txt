@@ -1,0 +1,15 @@
+Login
+Logout
+Register
+SearchEvent
+SearchUser
+Update
+DeleteUser
+SaveProfile
+GetProfile
+EditStatus
+EditUser
+Post
+
+Detail
+view
